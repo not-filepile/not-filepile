@@ -6,4 +6,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=not-filepile&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[Discord](https://filepile.xyz/discord).
+[Discord](https://filepile.xyz/discord)
